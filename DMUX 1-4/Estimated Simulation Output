@@ -1,0 +1,5 @@
+Time=0  | din=1 | s1s0=00 | y0=1 y1=0 y2=0 y3=0
+Time=10 | din=1 | s1s0=01 | y0=0 y1=1 y2=0 y3=0
+Time=20 | din=1 | s1s0=10 | y0=0 y1=0 y2=1 y3=0
+Time=30 | din=1 | s1s0=11 | y0=0 y1=0 y2=0 y3=1
+Time=40 | din=0 | s1s0=11 | y0=0 y1=0 y2=0 y3=0
